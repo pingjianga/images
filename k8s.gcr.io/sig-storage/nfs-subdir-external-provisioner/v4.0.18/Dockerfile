@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.3
+FROM quay.io/myorg/nfs-subdir-external-provisioner-amd64:latest
